@@ -4,3 +4,6 @@
 - Give only one responsability to a function whenever is possible. Is easier to test your code. 
 - Try to not use arrow functions, use Function expressions, is much readble. 
 - Are there any methods that could be replaced as language methods as Array.map(), filter(), Object.create()...?
+- Could you use a factory function? 
+- Could you use a constructor function?
+- Is not better use a Class, for exemplo to validation chained? 
