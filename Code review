@@ -3,3 +3,4 @@
 - Do not track your code using if and elses or try catches unecessarily.
 - Give only one responsability to a function whenever is possible. Is easier to test your code. 
 - Try to not use arrow functions, use Function expressions, is much readble. 
+- Are there any methods that could be replaced as language methods as Array.map(), filter(), Object.create()...?
