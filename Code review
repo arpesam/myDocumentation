@@ -7,3 +7,11 @@
 - Could you use a factory function? 
 - Could you use a constructor function?
 - Is not better use a Class, for exemplo to validation chained? 
+- Are you solving uncertain future problems? (YAGNI)
+- Are they open for extension, but closed for modification? (OCP)
+
+
+
+
+
+https://www.callicoder.com/software-development-principles/
