@@ -1,0 +1,5 @@
+
+
+row ->d-flex justify-content-center / start/ between
+col ->d-flex justify-content-center / start/ between
+div ->d-flex align-self-center
