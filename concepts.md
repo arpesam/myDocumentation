@@ -19,3 +19,8 @@ console.log(createUser({ userName: 'echo', avatar: 'echo.png' }));
 }
 */
 ```
+
+
+## Design Patterns
+Facade- Usado para juntar métodos de várias classes debaixo de um método de uma única classe. 
+Pense em um método que da baixa num boleto. Pode-se criar várias classes, uma para conectar no banco, outra pra validar, outra para buscar o número etc, nesse caso cria-se uma facade- que vai fazer todas essas chamadas em um método próprio. 
