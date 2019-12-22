@@ -63,9 +63,6 @@ console.log(foundIndex)
 
 
 
-
-
-
 // JS Nuggets: 10 Common Array Methods
 
 var arr = ["a", "b", "c"];
