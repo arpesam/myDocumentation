@@ -27,8 +27,6 @@ console.log('keys -> ', Object.keys(obj1))
 // getOwnPropertyDescriptors- show all entries descriptors -- getOwnPropertyDescriptor(obj, prop) does the same to one property
 console.log('getOwnPropertyDescriptors -> ', Object.getOwnPropertyDescriptors(obj1))
 
-// getOwnPropertyDescriptors- show all entries descriptors -- getOwnPropertyDescriptor(obj, prop) does the same to one property
-console.log('getOwnPropertyDescriptors -> ', Object.getOwnPropertyDescriptors(obj1))
 
 Object.isExtensible(obj1) // verify if new properties can be added
 Object.isFrozen(obj1) // verify if the object cannot be changed anyway
