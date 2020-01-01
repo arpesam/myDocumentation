@@ -1,4 +1,4 @@
-// Used when is necessary to create a lot of objects that has the same atributes
+// Used when is necessary to create a lot of objects that have the same atributes
 // https://www.youtube.com/watch?v=kuirGzhGhyw&list=PLREW9ZuU80uTfmxo61-acnUYk3P_4plIF&index=2
 
 function Developer(name) {
