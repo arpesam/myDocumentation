@@ -1,3 +1,8 @@
+/* You use a singleton when you need to manage a shared resource. For instance a printer spooler. Your application should only have a single instance of the spooler in order to avoid conflicting request for the same resource.
+
+Or a database connection or a file manager etc */
+
+
 function Process(state) {
   this.state = state
 }
